@@ -2,7 +2,7 @@
 
 ## Table of Contents
   - Description
-  - Language used
+  - Tools used
   - How to run 
   
 
